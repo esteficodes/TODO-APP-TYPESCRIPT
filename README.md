@@ -16,7 +16,10 @@
 
 The app can be seen and tried <a href="https://todo-app-typescript-react-estefania.netlify.app/">here</a> Or just take a look at my demo <a href="https://www.loom.com/share/41a015c7d99a4d85a9ff47796a48f0bb">here</a> or here ⬇️⬇️⬇️⬇
 
-![41a015c7d99a4d85a9ff47796a48f0bb-with-play](https://user-images.githubusercontent.com/70166033/226605468-f9ba24b7-be14-4cc4-b5d4-4975a5943d28.gif)
+https://user-images.githubusercontent.com/70166033/226607155-9c69a34e-ea8c-4113-a77c-721bb36845ba.mp4
+
+
+
 
 
 
