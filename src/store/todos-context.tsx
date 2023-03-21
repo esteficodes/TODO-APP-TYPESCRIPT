@@ -1,6 +1,6 @@
-import React, { useState, PropsWithChildren } from 'react'; //adding propswithchildren as per React 18 version 
+import React, { useState, PropsWithChildren } from "react"; //adding propswithchildren as per React 18 version
 
-import Todo from '../models/todo';
+import Todo from "../models/todo";
 
 type TodosContextObj = {
   items: Todo[];
@@ -44,7 +44,4 @@ const TodosContextProvider: React.FC<PropsWithChildren<{}>> = (props) => {
   );
 };
 
-
 export default TodosContextProvider;
-
-
