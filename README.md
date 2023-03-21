@@ -14,3 +14,4 @@
     <li>Adding Styling</li>
 </ul>
 
+The app can be seen and tried <a href="https://todo-app-typescript-react-estefania.netlify.app/">here</a>
