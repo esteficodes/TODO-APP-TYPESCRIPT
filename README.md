@@ -16,8 +16,8 @@
 
 The app can be seen and tried <a href="https://todo-app-typescript-react-estefania.netlify.app/">here</a> Or just take a look at my demo <a href="https://www.loom.com/share/41a015c7d99a4d85a9ff47796a48f0bb">here</a> or here ⬇️⬇️⬇️⬇
 
-<div style="position: relative; padding-bottom: 53.125%; height: 0;"><iframe src="https://www.loom.com/embed/41a015c7d99a4d85a9ff47796a48f0bb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Vite + React + TS - 21 March 2023 - Watch Video
+
+
 
 
